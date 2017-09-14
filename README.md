@@ -1,0 +1,2 @@
+# mycompany
+Improving programming habilitys
