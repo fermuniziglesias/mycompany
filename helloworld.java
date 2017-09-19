@@ -23,6 +23,7 @@ public class HelloWorld {
         System.out.println("Hello, World");
 		System.out.println("release/1.1");
 		System.out.println("Merge");
+		System.out.println("Tag");
     }
 
 }
